@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bataa
-- 👀 I’m interested in **web app development** (React, NodeJS, GraphQL, NoSQL databases), **mobile app development** (Flutter), **machine learning
-** (PyTorch, Tensorflow, scikit-learn)   
+- 👀 I’m interested in **web app development** (React, NodeJS, GraphQL, NoSQL databases), **mobile app development** (Flutter), **machine learning** (PyTorch, Tensorflow, scikit-learn)   
 - 🌱 I’m currently learning PyTorch, GraphQL
 - 💞️ I’m looking to collaborate on anything that is challenging
 - 📫 How to reach me: baterdene.tsogoo220@gmail.com **machine learning
