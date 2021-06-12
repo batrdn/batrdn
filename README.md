@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bataa
-- 👀 I’m interested in **web app development** (React, NodeJS, GraphQL, NoSQL databases), **mobile app development** (Flutter), **machine learning** (PyTorch, Tensorflow, scikit-learn). Other technology stacks include: Java, Angular, Spring Framework, C, C++   
+- 👀 I’m interested in **web app development** (React, NodeJS, GraphQL, NoSQL databases), **mobile app development** (Flutter, React-Native), **machine learning** (PyTorch, Tensorflow, scikit-learn). Other technology stacks include: Java, Angular, Spring Framework, C, C++   
 - 📫 How to reach me: baterdene.tsogoo220@gmail.com
 
 <!---
